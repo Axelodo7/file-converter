@@ -24,6 +24,12 @@ pip install -r requirements.txt
 
 ## Usage
 
+### Terminal Command
+```bash
+Converter
+```
+
+### Manual Launch
 ```bash
 python main.py
 ```
